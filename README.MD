@@ -1,11 +1,16 @@
-I own a Samsung A31, none of the guide that I've read have been very straightfoward surrounding rooting.
+I own a Samsung A31, none of the guides that I've followed have worked.
 This guide aims to document the process myself.
 
-Phone Model:
+### Phone Model:
 - SM-A315G/DS
 - Apparently 'DS' stands for Dual-sim
 
-Required Files:
+### Required Files:
 - Odin - https://odindownload.com/download/
 - Magisk - https://github.com/topjohnwu/Magisk/releases/
 - Latest Firmware - https://samfrew.com/model/SM-A315G/region/XSA/
+
+### Unlocking the bootloader:
+- Ensure you're not logged into and Samsung or Google accounts
+- Settings -> About Phone -> Tap on 'Build number' until you have 'Developer Mode' enabled
+- Navigate to Developer mode and turn on 'OEM Unlock'
