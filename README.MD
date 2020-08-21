@@ -19,3 +19,11 @@ This guide aims to document the process myself.
 - Release all the buttons when the logo flashes
 - Press Volume Up to boot into download mode
 - HOLD Volume up, this will now unlock the bootloader
+
+### Patching your firmware:
+- Extract the A31 firmware with 7zip
+- Copy the AP file to your device, should be about 4Gb or so
+- Install Magisk Manager
+- Launch and tap on 'Install' - > 'Select and Patch a File', select the AP file you transferred
+- Magisk will start patching the file, it will generate a file named 'magisk_patched.tar'
+- Copy that file back to your computer
