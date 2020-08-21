@@ -14,3 +14,8 @@ This guide aims to document the process myself.
 - Ensure you're not logged into and Samsung or Google accounts
 - Settings -> About Phone -> Tap on 'Build number' until you have 'Developer Mode' enabled
 - Navigate to Developer mode and turn on 'OEM Unlock'
+- Turn off phone -> Plug USB-C Cable from PC into Device
+- Hold 'Volume Down' + 'Power' buttons
+- Release all the buttons when the logo flashes
+- Press Volume Up to boot into download mode
+- HOLD Volume up, this will now unlock the bootloader
