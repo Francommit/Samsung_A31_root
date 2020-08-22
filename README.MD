@@ -14,10 +14,7 @@ This guide aims to document the process myself.
 - Ensure you're not logged into and Samsung or Google accounts
 - Settings -> About Phone -> Tap on 'Build number' until you have 'Developer Mode' enabled
 - Navigate to Developer mode and turn on 'OEM Unlock'
-- Turn off phone -> Plug USB-C Cable from PC into Device
-- Hold 'Volume Down' + 'Power' buttons
-- Release all the buttons when the logo flashes
-- Press Volume Up to boot into download mode
+- Turn off phone -> Hold 'Vol up' + 'Vol Down' -> Plug USB-C Cable from PC into Device
 - HOLD Volume up, this will now unlock the bootloader
 
 ### Created a patched firmware file:
@@ -40,3 +37,13 @@ This guide aims to document the process myself.
 Now wipe all data by choosing Wipe data/factory reset.
 After you device is cleaned, simply click on Reboot.
 Now hit on “Start” button and the flashing process will start.
+
+
+- Press 'Power' + 'Volume Down' to exit download mode. 
+- As soon as the screen turns off, immediately press the combo key 'Power' + 'Volume Up' to boot to recovery. 
+- Continue pressing the volume up button until you see the stock recovery screen.
+- Use the Volume Buttons to Choose Wipe data/factory reset
+ 
+- Now Choose the Reboot System Now and Hold down the Power + Volume Up buttons. As soon as you see the Warning screen, release all the buttons. Your System will now Boot into the System with Magisk
+
+- You need to do this every single time you will reboot the device, Here are the Combinations you need to learn
